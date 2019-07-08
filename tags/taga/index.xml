@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Geek Hustler</title>
-    <link>https://elaphent.github.io/blog/</link>
-    <description>Recent content on Geek Hustler</description>
+    <title>tagA on Geek Hustler</title>
+    <link>https://elaphent.github.io/blog/tags/taga/</link>
+    <description>Recent content in tagA on Geek Hustler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
     <lastBuildDate>Mon, 08 Jul 2019 17:30:42 +0800</lastBuildDate>
     
-	<atom:link href="https://elaphent.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://elaphent.github.io/blog/tags/taga/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>https://elaphent.github.io/blog/post/02-sadistic-boy/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>01 Hello World</title>
-      <link>https://elaphent.github.io/blog/post/01-hello-world/</link>
-      <pubDate>Mon, 08 Jul 2019 17:01:30 +0800</pubDate>
-      
-      <guid>https://elaphent.github.io/blog/post/01-hello-world/</guid>
-      <description>First Blood Hello world! Hail Hydra!</description>
     </item>
     
   </channel>
